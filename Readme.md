@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition with `my_model`
+# Handwritten Digit Recognition
 
 This repository contains the implementation of a neural network model for handwritten digit recognition. The model architecture includes three dense layers and is designed to classify handwritten digits from the MNIST dataset.
 
